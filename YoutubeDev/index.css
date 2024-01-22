@@ -1,0 +1,61 @@
+body {
+    display: flex; /* Adiciona display flex para alinhar a área lateral ao lado dos itens */
+}
+
+.conteiner {
+    height: max-content;
+    width: 100%;
+    background-color: rgb(242, 236, 236);
+    display: flex;
+    position: relative;
+    align-items: center;
+    padding-bottom: 40;
+    flex-direction: column;
+    -webkit-box-align: center;
+
+    /* flex-wrap: wrap;*/
+    margin-left: 100px;
+}
+
+.linha {
+    display: flex;
+    align-items: center; /* Alinha os itens verticalmente no centro */
+    padding: 10px;
+    flex-wrap: wrap;
+    justify-content: flex-start; /* Alinha os itens à esquerda */
+    width: 100%; /* Garante que a linha ocupe 100% da largura */
+}
+
+.card {
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: white;
+    padding: 16px;
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 8px; /* Adiciona margem entre os cards para melhor espaçamento */
+}
+
+.card img {
+    max-width: 100%;
+    border-radius: 8px;
+    object-fit: cover;
+    height: 150px;
+}
+
+.card h3 {
+    margin-top: 8px;
+}
+
+.area-lateral {
+    width: 500px;
+    height: 50px;
+    padding-left: 20px;
+    margin-right: 50px;
+    margin-top: 19px;
+    background-color: red;
+    /* Adicione outras propriedades de estilo conforme necessário */
+    margin-left: 10px; /* Adiciona margem à esquerda para separar dos itens */
+}

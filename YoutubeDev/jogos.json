@@ -1,0 +1,58 @@
+[
+    {
+        "nome": "São Paulo",
+        "imagem": "teste.webp",
+        "preco": "12,40"
+    },
+    {
+        "nome": "Corinthians",
+        "imagem": "whey.jpg",
+        "preco": "12,40"
+    },
+    {
+        "nome": "Palmeiras",
+        "imagem": "pagina.png",
+        "preco": "12,40"
+    },
+    {
+        "nome": "Neymar",
+        "imagem": "neymar.webp",
+        "preco": "12,40"
+    },
+    {
+        "nome": "quinto",
+        "imagem": "pagina.png",
+        "preco": "12,40"
+    },
+    {
+        "nome": "Teste",
+        "imagem": "neymar.webp",
+        "preco": "120,40"
+    },
+    {
+        "nome": "Neymar",
+        "imagem": "teste.webp",
+        "preco": "12,40"
+    },
+    {
+        "nome": "quinto",
+        "imagem": "pagina.png",
+        "preco": "12,40"
+    },
+    {
+        "nome": "Neymar",
+        "imagem": "teste.webp",
+        "preco": "12,40"
+    },
+    {
+        "nome": "quinto",
+        "imagem": "pagina.png",
+        "preco": "12,40"
+    },
+    {
+        "nome": "Neymar",
+        "imagem": "teste.webp",
+        "preco": "12,40"
+    }
+      
+]
